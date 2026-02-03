@@ -1,0 +1,27 @@
+{
+  "name": "chatyy-stack",
+  "version": "1.0.0",
+  "description": "Live chatting app",
+  "main": "index.js",
+  "scripts": {
+    "yugi": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "start": "node index.js",
+    "url": "git+https://github.com/CodeYugi/Chatyy-Stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/CodeYugi/Chatyy-Stack/issues"
+  },
+  "homepage": "https://github.com/CodeYugi/Chatyy-Stack#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
